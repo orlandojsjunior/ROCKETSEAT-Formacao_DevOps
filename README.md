@@ -1,2 +1,2 @@
-# ROCKETSEAT Formacao DevOps
+# ROCKETSEAT Formação DevOps
 
