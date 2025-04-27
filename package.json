@@ -2,7 +2,7 @@
   "name": "api",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Orlando Junior <orlandojsjunior@hotmail.com>",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -69,5 +69,6 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  }
+  },
+  "main": "index.js"
 }
